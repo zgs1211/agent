@@ -46,3 +46,7 @@ direnv/
 # Vector database (regenerable)
 data/chroma_db/
 data/__pycache__/
+
+# Push helper script (contains token)
+push_to_github.sh
+push_to_github.ps1
