@@ -693,3 +693,4 @@ class RAGEvaluator:
 | 成本控制 | 查询分级（大小模型分流），API 成本降低 60% |
 | 生产化 | K8s 部署、缓存、降级、限流，日均 5000+ QPS |
 | 多模态 | 表格 Markdown 化 + 图片 VLM 描述，覆盖 90%+ 文档类型 |
+![alt text](image.png)
